@@ -1,3 +1,5 @@
 2nd test file created for testing 
 
-Modified Second line
+removed and modified line2
+
+adding the new text on phase2 brach
