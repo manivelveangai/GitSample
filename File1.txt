@@ -4,3 +4,4 @@ adding second line
 
 adding 3rd line for testing
 Adding the line in master branch for merge conflict
+adding the file to from phase3
